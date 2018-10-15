@@ -1,4 +1,4 @@
-import Staff.Manager;
+import Staff.Management.Manager;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -20,6 +20,11 @@ public class ManagerTest {
     @Test
     public void managerHasName() {
         assertEquals("Bob", manager.getName());
+    }
+
+    @Test
+    public void hasNi() {
+        assertEquals("GB345676S", manager.getNi());
     }
 
     @Test

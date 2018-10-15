@@ -1,4 +1,4 @@
-package Staff;
+package Staff.Management;
 
 public abstract class Employee {
     private String name;

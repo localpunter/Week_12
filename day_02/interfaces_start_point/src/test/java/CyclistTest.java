@@ -17,4 +17,10 @@ public class CyclistTest {
         assertEquals(0, cyclist.getDistanceTravelled());
     }
 
+    @Test
+    public void canCycle() {
+        cyclist.cycle(30);
+        assertEquals(30, cyclist.getDistanceTravelled());
+    }
+
 }

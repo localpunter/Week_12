@@ -17,6 +17,12 @@ public class SwimmerTest {
         assertEquals(0, swimmer.getDistanceTravelled());
     }
 
+    @Test
+    public void canSwim() {
+        swimmer.swim(15);
+        assertEquals(15, swimmer.getDistanceTravelled());
+    }
+
 
 
 

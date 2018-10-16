@@ -4,11 +4,6 @@
     <list default="true" id="52efa082-a788-4781-a0a0-69170c1b020c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../FarmAnimals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FarmAnimals/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../abstract_classes_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_classes_start_point/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee_lab/src/main/java/Staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee_lab/src/main/java/Staff/Management/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee_lab/src/main/java/Staff/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee_lab/src/main/java/Staff/Management/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee_lab/src/test/java/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee_lab/src/test/java/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee_lab/src/test/java/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee_lab/src/test/java/ManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -518,7 +513,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539621180975" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539623341405" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />

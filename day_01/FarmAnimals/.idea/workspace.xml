@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c0a2d3b-0612-45f3-ac1e-a3442da03ac3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../abstract_classes_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_classes_start_point/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee_lab/src/main/java/Staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee_lab/src/main/java/Staff/Management/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee_lab/src/main/java/Staff/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee_lab/src/main/java/Staff/Management/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee_lab/src/test/java/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee_lab/src/test/java/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee_lab/src/test/java/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee_lab/src/test/java/ManagerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../inheritance_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance_start_point/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -501,7 +496,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539621180943" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539623341338" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

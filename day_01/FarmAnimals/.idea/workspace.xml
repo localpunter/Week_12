@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c0a2d3b-0612-45f3-ac1e-a3442da03ac3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/.idea/modules/InterfacesStartPoint_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/.idea/modules/InterfacesStartPoint_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/.idea/modules/InterfacesStartPoint_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/.idea/modules/InterfacesStartPoint_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Athlete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Athlete.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Cyclist.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Cyclist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/ICanDoTriathlon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/ICycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/ISwim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Swimmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Swimmer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Triathlete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/production/classes/Triathlete.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/test/classes/RunnerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/test/classes/RunnerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/test/classes/SwimmerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/test/classes/SwimmerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/test/classes/TriathleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/test/classes/TriathleteTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/main/java/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/main/java/Triathlete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/main/java/Triathlete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/test/java/RunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/test/java/RunnerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/test/java/TriathleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/test/java/TriathleteTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -39,6 +25,7 @@
     <session id="1734884635">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -452,7 +439,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="371" />
     <option name="width" value="1280" />
     <option name="height" value="429" />
@@ -512,7 +499,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539679549771" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539700570752" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -540,7 +527,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="371" width="1280" height="429" extended-state="1" />
+    <frame x="0" y="371" width="1280" height="429" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />

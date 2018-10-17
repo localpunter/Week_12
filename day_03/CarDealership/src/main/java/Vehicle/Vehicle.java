@@ -13,4 +13,16 @@ public abstract class Vehicle {
         this.engine = engine;
         this.price = price;
     }
+
+    public Body getBody() {
+        return body;
+    }
+
+    public Engine getEngine() {
+        return engine;
+    }
+
+    public double getPrice() {
+        return price;
+    }
 }

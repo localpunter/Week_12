@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f93ab23-0d1b-4a27-a444-ca31c16679c0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../day_01/FarmAnimals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_01/FarmAnimals/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/abstract_classes_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_01/abstract_classes_start_point/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/libraries/junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/modules/inheritance_start_point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/modules/inheritance_start_point_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/modules/inheritance_start_point_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/out/production/classes/Instructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/out/production/classes/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/out/production/classes/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/out/test/classes/InstructorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/out/test/classes/PersonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/out/test/classes/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/src/main/java/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/src/main/java/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/src/main/java/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/src/test/java/InstructorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/src/test/java/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_01/inheritance_start_point/src/test/java/StudentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/test/classes/RunnerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/out/test/classes/RunnerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/test/java/RunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_02/interfaces_start_point/src/test/java/RunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarDealership/src/main/java/Dealership/Dealership.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CarDealership/src/main/java/Dealership/Dealership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarDealership/src/main/java/Vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CarDealership/src/main/java/Vehicle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarDealership/src/test/java/DealershipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CarDealership/src/test/java/DealershipTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -100,10 +58,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/device_management/PrintingDevice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="54">
               <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
                 <element signature="e#263#264#0" expanded="true" />
@@ -126,10 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/device_management/Computer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-109">
+            <state relative-caret-position="105">
               <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding>
                 <element signature="e#309#310#0" expanded="true" />
@@ -490,9 +448,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="778" />
+    <option name="height" value="403" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -565,7 +524,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539780957123" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539781083746" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -728,7 +687,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
+    <frame x="1" y="22" width="1280" height="403" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
@@ -744,7 +704,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3469388" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3469388" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -975,9 +935,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/device_management/PrintingDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/device_management/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-109">
+        <state relative-caret-position="105">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
             <element signature="e#309#310#0" expanded="true" />
@@ -990,21 +965,6 @@
             <element signature="e#573#574#0" expanded="true" />
             <element signature="e#687#688#0" expanded="true" />
             <element signature="e#734#735#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/device_management/PrintingDevice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b538f018-6d6c-480d-85cc-b887b2be65c1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../day_01/FarmAnimals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_01/FarmAnimals/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/abstract_classes_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_01/abstract_classes_start_point/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/libraries/junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/modules/inheritance_start_point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/modules/inheritance_start_point_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/modules/inheritance_start_point_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/out/production/classes/Instructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/out/production/classes/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/out/production/classes/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/out/test/classes/InstructorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/out/test/classes/PersonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/out/test/classes/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/src/main/java/Instructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/src/main/java/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/src/main/java/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/src/test/java/InstructorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/src/test/java/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_01/inheritance_start_point/src/test/java/StudentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../interfaces_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../interfaces_start_point/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../interfaces_start_point/out/test/classes/RunnerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../interfaces_start_point/out/test/classes/RunnerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../interfaces_start_point/src/test/java/RunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../interfaces_start_point/src/test/java/RunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day_03/CarDealership/src/main/java/Dealership/Dealership.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_03/CarDealership/src/main/java/Dealership/Dealership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day_03/CarDealership/src/main/java/Vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_03/CarDealership/src/main/java/Vehicle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day_03/CarDealership/src/test/java/DealershipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_03/CarDealership/src/test/java/DealershipTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -769,6 +727,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2092084" />
       <window_info id="Structure" order="1" weight="0.25" />

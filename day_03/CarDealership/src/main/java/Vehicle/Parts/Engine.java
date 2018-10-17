@@ -1,6 +1,8 @@
 package Vehicle.Parts;
 
-public class Engine {
+import behaviours.IParts;
+
+public class Engine implements IParts {
     private int originalHitPoints;
     private int hitPoints;
 
@@ -23,5 +25,10 @@ public class Engine {
             hitPoints -= damage;
         }
 
+    }
+
+    @Override
+    public void repair() {
+        hitPoints = originalHitPoints;
     }
 }

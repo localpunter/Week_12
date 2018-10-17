@@ -19,4 +19,12 @@ public class EngineTest {
         engine.addDamage(2);
         assertEquals(8, engine.getHitPoints());
     }
+
+    @Test
+    public void canRepair() {
+        engine.addDamage(5);
+        engine.repair();
+        assertEquals(10, engine.getHitPoints());
+    }
+
 }

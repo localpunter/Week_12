@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b538f018-6d6c-480d-85cc-b887b2be65c1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../day_03/CarDealership/src/main/java/Dealership/Dealership.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_03/CarDealership/src/main/java/Dealership/Dealership.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_03/CarDealership/src/main/java/Vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_03/CarDealership/src/main/java/Vehicle/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../day_03/CarDealership/src/test/java/DealershipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_03/CarDealership/src/test/java/DealershipTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day_03/composition_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_03/composition_start_point/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -24,6 +22,7 @@
     <session id="-773757545">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -506,7 +505,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="778" />
@@ -726,8 +725,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2092084" />
       <window_info id="Structure" order="1" weight="0.25" />
